@@ -12,19 +12,17 @@ Creating Tables Using Html, a Data about planet of our solar system which consis
 * Naptune
 * Pluto
 
-### Youtube iframe
-This is the youte iframe video used <iframe src="https://www.youtube.com/embed/ojcNcvb1olg" width="30%" frameborder=""></iframe>
+### Table Tags
+The Following are the table tags used in Creating rows and Colums
 
-#### Images
-These are the Images Used
- <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"> <img src="photo_2023-01-25_06-58-00.png" alt="mozilla firefox">
-          <img>
-        </a>
-        <a href="https://www.mozilla.org/" target="_blank"> <img src="photo_2023-01-25_06-57-50.png" alt="mozilla">
-          <img>
-        </a>
-        <a href="https://addons.mozilla.org/" target="_blank"> <img src="photo_2023-01-25_06-58-07.png" alt="mozilla addons">
-          <img>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/" target="_blank"> <img src="mdn.svg" alt="mdn">
-          <img>
+<colgroups> Used in specifying the numbers of columns  in a table and these are;
+<col span= "Specifying the number of columns to house the entire data in a table
+<col style= "styling the border, and other tags like width and color
+
+#### Commonly Used Table tags
+<thead>This is use to specify the header from the body and footer of the table</thead>
+<tbody>This is use to specify the body from the header and footer of the table</thead>
+<tfoot>This is use to specify the footer from the header and body of the table</tfoot>
+<th>This is use to specify the header of the data if a single data has more than one data entry cell</th>
+<tr>This consist data on the table rows</tr>
+<td>This consist data on the table columns</td>
