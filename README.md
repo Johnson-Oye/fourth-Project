@@ -14,7 +14,7 @@ Creating Tables Using Html, a Data about planet of our solar system which consis
 
 ### Table Tags
 
-The Following are the table tags used in Creating rows and Colums
+The Following are the table tags used in Creating rows and Columns
 
 < colgroups > Used in specifying the numbers of columns  in a table and these are; </ colgroups >
 < col span = "Specifying the number of columns to house the entire data in a table
